@@ -33,7 +33,7 @@ currencies.forEach((currency)=>{
             }
             )
         }else{
-            alert("Please enter amount")
+            alert("Iltimos, miqdorni kiriting")
         }
     }
 
